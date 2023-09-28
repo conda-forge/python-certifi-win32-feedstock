@@ -1,11 +1,11 @@
-About python-certifi-win32
-==========================
+About python-certifi-win32-feedstock
+====================================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/python-certifi-win32-feedstock/blob/main/LICENSE.txt)
 
 Home: https://gitlab.com/alelec/python-certifi-win32
 
 Package license: BSD-2-Clause
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/python-certifi-win32-feedstock/blob/main/LICENSE.txt)
 
 Summary: Add windows certificate store to certifi cacerts.
 
@@ -45,10 +45,10 @@ Current build status
                 </a>
               </td>
             </tr><tr>
-              <td>win_64_python3.8.____73_pypy</td>
+              <td>win_64_python3.12.____cpython</td>
               <td>
                 <a href="https://dev.azure.com/conda-forge/feedstock-builds/_build/latest?definitionId=8831&branchName=main">
-                  <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/python-certifi-win32-feedstock?branchName=main&jobName=win&configuration=win%20win_64_python3.8.____73_pypy" alt="variant">
+                  <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/python-certifi-win32-feedstock?branchName=main&jobName=win&configuration=win%20win_64_python3.12.____cpython" alt="variant">
                 </a>
               </td>
             </tr><tr>
